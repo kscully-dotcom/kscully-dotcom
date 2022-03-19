@@ -12,7 +12,7 @@
 
 ⚠ Many of my projects are in private mode because they are either under construction, top-secret, or simply homework 🤫
 
-Comeback later and I will have some public projects.
+Come back later and I will have some public projects.
 
 <!---
 kscully-dotcom/kscully-dotcom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
